@@ -28,5 +28,5 @@ consul_download_url = "https://s3-us-west-2.amazonaws.com/hc-enterprise-binaries
 auto_join_tag = "nyc-hackathon-demo-cluster"
 
 # These are only needed for HashiCorp SEs
-owner = "roger@hashicorp.com"
+owner = "mpeters@hashicorp.com"
 ttl = "-1"
